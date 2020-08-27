@@ -1,4 +1,4 @@
-# car_price
+# Car Price Prediction
 <h3>Auto company</h3> <hr>
 <h2>Project Summary</h2>
 <hr>
@@ -43,4 +43,7 @@ Training the data using Linear Regression algorithms and checking the MSE, RMSE 
 
 <h3>Results</h3><br>
 We have observed that Performance of the model is 85.08 %
+
+
+ **Project Link**        [ www.iginitin.github.io/COVID/ ](https://iginitin.github.io/car_price/)
 

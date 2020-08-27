@@ -44,6 +44,6 @@ Training the data using Linear Regression algorithms and checking the MSE, RMSE 
 <h3>Results</h3><br>
 We have observed that Performance of the model is 85.08 %
 
-
- **Project Link**        [ www.iginitin.github.io/COVID/ ](https://iginitin.github.io/car_price/)
+<br>
+ **Project Link: **        [ www.iginitin.github.io/COVID/ ](https://iginitin.github.io/car_price/)
 
